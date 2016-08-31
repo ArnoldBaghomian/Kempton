@@ -12,7 +12,7 @@ $website = $_POST['website'];
 
 $yourMessage = $_POST['comments'];
 
-$to      = 'html.pixelgeeklab@gmail.com';
+$to      = 'arnold@kemptonrealty.com';
 $subject = 'Contact from Form Submit';
 // To send HTML mail, the Content-type header must be set
 $headers = 'From: '.$yourMail . "\r\n" .
